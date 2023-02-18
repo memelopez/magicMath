@@ -1,11 +1,11 @@
+// /src/app.js
 import './App.css';
+import Calculator from './components/Calculator';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h3>Ole le</h3>
-      </header>
+      <Calculator />
     </div>
   );
 }
