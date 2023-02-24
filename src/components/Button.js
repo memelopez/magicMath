@@ -3,26 +3,20 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-class Button extends React.Component {
-  constructor(props) {
-    super(props);
+function Button(props) {
+  const { value } = props;
+  let classes4btn = 'calcBtn';
+  if (value === '0') {
+    classes4btn = 'calcBtn span2';
   }
-
-  render() {
-    const { value } = this.props;
-    let classes4btn = 'calcBtn';
-    if (value === '0') {
-      classes4btn = 'calcBtn span2';
-    }
-    if (value === '+' || value === 'x' || value === '-' || value === '=' || value === '÷') {
-      classes4btn = 'calcBtn orangeBtn';
-    }
-    return (
-      <button className={classes4btn} type="button" onClick={this.handleClick}>
-        {value}
-      </button>
-    );
+  if (value === '+' || value === 'x' || value === '-' || value === '=' || value === '÷') {
+    classes4btn = 'calcBtn orangeBtn';
   }
+  return (
+    <button className={classes4btn} type="button">
+      {value}
+    </button>
+  );
 }
 
 Button.defaultProps = {
