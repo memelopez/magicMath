@@ -59,7 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math Magicians] <a name="about-project"></a>
+# 📖 Math Magicians <a name="about-project"></a>
 
 > A website for all fans of Mathematics.
 
