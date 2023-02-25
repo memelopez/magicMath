@@ -207,7 +207,7 @@ Example:
 > Upcomming features:
 
 - [ ] **Calculator will be one feature of a bigger app**
-- [ ] **[More fun math stuff comming soon!]**
+- [ ] **More fun math stuff comming soon!**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
