@@ -27,10 +27,10 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./public/pi1.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Math Magicians</b></h3>
 
 </div>
 
@@ -40,6 +40,8 @@ After you're finished please remove all the comments and instructions!
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -49,14 +51,15 @@ After you're finished please remove all the comments and instructions!
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math Magician <a name="about-project"></a>
+# 📖 Math Magicians <a name="about-project"></a>
 
 > A website for all fans of Mathematics.
 
@@ -64,19 +67,31 @@ After you're finished please remove all the comments and instructions!
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### React <a name="tech-stack"></a>
+### Tech Stack <a name="tech-stack"></a>
 
-> React is a JavaScript library for building user interfaces.
+> Describe the tech stack and include only the relevant sections that apply to your project.
 
+#### React 
 
 <!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> This calculator:
+
+- **has numbers**
+- **has pretty colors**
+- **can perform basic math operatiosn!**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Coming soon!
+> It is not deployed yet, but will be soon!.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [not yet](www.google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,8 +190,7 @@ Example:
 
 <!-- AUTHORS -->
 
-
-## Author
+## 👥 Author <a name="authors"></a>
 
 👤 **Elmer Lopez**
 
@@ -184,6 +198,20 @@ Example:
 - Twitter: [@memelopez10](https://twitter.com/memelopez10)
 - LinkedIn: [Elmer Lopez](https://www.linkedin.com/in/elmer-lopez-51b187200/)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Upcomming features:
+
+- [ ] **Calculator will be one feature of a bigger app**
+- [ ] **More fun math stuff comming soon!**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
